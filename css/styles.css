@@ -170,7 +170,7 @@ button:focus {
   letter-spacing: 0.54px;
   text-transform: uppercase;
 }
-.logo-footer .accent {
+.logo-footer .accent-footer {
   color: var(--IRIS, #4d5ae5);
 }
 .footer-text {

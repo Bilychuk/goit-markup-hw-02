@@ -14,6 +14,9 @@ a:hover,
 a:focus {
   color: var(--IRIS, #4d5ae5);
 }
+button {
+  background-color: var(--IRIS, #4d5ae5);
+}
 button:hover,
 button:focus {
   background-color: var(--OCEAN, #404bbf);
@@ -69,7 +72,6 @@ button:focus {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.64px;
-  background-color: var(--IRIS, #4d5ae5);
   cursor: pointer;
 }
 

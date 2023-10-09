@@ -35,22 +35,30 @@ button:focus {
 .logo .accent {
   color: var(--NAVY-BLUE, #2e2f42);
 }
-.link {
+.page-nav .link {
   color: var(--NAVY-BLUE, #2e2f42);
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.32px;
 }
+.page-nav .link:hover,
+.page-nav .link:focus {
+  color: var(--OCEAN, #404bbf);
+}
 .contacts {
   font-style: normal;
 }
-.contact-link {
+.contact-info .contact-link {
   color: var(--SLATE, #434455);
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.32px;
+}
+.contact-info .contact-link:hover,
+.contact-info .contact-link:focus {
+  color: var(--OCEAN, #404bbf);
 }
 
 /* Hero section */

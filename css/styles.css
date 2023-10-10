@@ -29,7 +29,7 @@ button:focus {
   font-style: normal;
   font-weight: 700;
   line-height: 1.17;
-  letter-spacing: 0.03;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
 }
 .logo .accent {
@@ -40,7 +40,7 @@ button:focus {
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
-  letter-spacing: 0.02;
+  letter-spacing: 0.02em;
 }
 .page-nav .link:hover,
 .page-nav .link:focus {
@@ -54,7 +54,7 @@ button:focus {
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
-  letter-spacing: 0.02;
+  letter-spacing: 0.02em;
 }
 .contact-info .contact-link:hover,
 .contact-info .contact-link:focus {
@@ -71,7 +71,7 @@ button:focus {
   font-size: 56px;
   font-weight: 700;
   line-height: 1.07;
-  letter-spacing: 0.02;
+  letter-spacing: 0.02em;
 }
 .hero-section .order-service {
   font-family: inherit;
@@ -80,7 +80,7 @@ button:focus {
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
-  letter-spacing: 0.04;
+  letter-spacing: 0.04em;
   cursor: pointer;
 }
 
@@ -90,13 +90,13 @@ button:focus {
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
-  letter-spacing: 0.02;
+  letter-spacing: 0.02em;
 }
 .benefirs-text {
   color: var(--SLATE, #434455);
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 0.02;
+  letter-spacing: 0.02em;
 }
 
 /* Our team */
@@ -109,7 +109,7 @@ button:focus {
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
-  letter-spacing: 0.02;
+  letter-spacing: 0.02em;
   text-transform: capitalize;
 }
 .team-member {
@@ -121,14 +121,14 @@ button:focus {
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
-  letter-spacing: 0.02;
+  letter-spacing: 0.02em;
 }
 .team-member .team-member-position {
   color: var(--SLATE, #434455);
   text-align: center;
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 0.02;
+  letter-spacing: 0.02em;
 }
 
 /* Portfolio */
@@ -138,7 +138,7 @@ button:focus {
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
-  letter-spacing: 0.02;
+  letter-spacing: 0.02em;
   text-transform: capitalize;
 }
 .portfolio-item {
@@ -150,13 +150,13 @@ button:focus {
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
-  letter-spacing: 0.02;
+  letter-spacing: 0.02em;
 }
 .portfolio-item-text {
   color: var(--SLATE, #434455);
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 0.02;
+  letter-spacing: 0.02em;
 }
 
 /* Footer */
@@ -169,7 +169,7 @@ button:focus {
   font-size: 18px;
   font-weight: 700;
   line-height: 1.17;
-  letter-spacing: 0.03;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
 }
 .logo-footer .accent-footer {
@@ -179,5 +179,5 @@ button:focus {
   color: var(--CLOUD, #f4f4fd);
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 0.2;
+  letter-spacing: 0.2em;
 }

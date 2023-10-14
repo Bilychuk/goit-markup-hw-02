@@ -3,7 +3,8 @@ body {
   color: var(--SLATE, #434455);
   background-color: var(--WHITE, #fff);
 }
-ul {
+ul,
+ol {
   list-style-type: none;
 }
 a {
@@ -14,6 +15,7 @@ a:focus {
   color: var(--OCEAN, #404bbf);
 }
 button {
+  cursor: pointer;
   background-color: var(--IRIS, #4d5ae5);
 }
 button:hover,
